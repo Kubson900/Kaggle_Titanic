@@ -2,7 +2,7 @@
 My first attempt on Kaggle competitions!
 
 ## Link to competition
-[I'm an inline-style link](https://www.kaggle.com/c/titanic)
+[Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
 ## Procedure:
 * Imports and Loading
